@@ -1,1 +1,3 @@
-Commandes git example
+#Commandes git 
+
+Liste des commandes git
