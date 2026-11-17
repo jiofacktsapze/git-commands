@@ -31,4 +31,4 @@ Liste des commandes git
 - Avec l'option -b, checkout va créer la branche si elle n'existe pas
 
 ## git pull
-Permet de récupérer les modifications distantes
+- Permet de récupérer les modifications distantes
