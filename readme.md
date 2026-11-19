@@ -32,3 +32,9 @@ Liste des commandes git
 
 ## git pull
 - Permet de récupérer les modifications distantes
+
+## git rebase
+- Permet de récupérer les modifications de la branche mère
+- Les modifications de la branche mère sont classées en dessous des modifications de la branche courante
+- Les modifications de la branche courante sont classées au dessus des modifications de la branche mère
+  
