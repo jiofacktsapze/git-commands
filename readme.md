@@ -37,4 +37,11 @@ Liste des commandes git
 - Permet de récupérer les modifications de la branche mère
 - Les modifications de la branche mère sont classées en dessous des modifications de la branche courante
 - Les modifications de la branche courante sont classées au dessus des modifications de la branche mère
-  
+
+## git reset
+- Permet de supprimer un commit
+- Permet de revenir à un commit défini par son identifiant
+- Attention à utiliser avec précaution
+
+## git diff
+- Permet de comparer deux commits
